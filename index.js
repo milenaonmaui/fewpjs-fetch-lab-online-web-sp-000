@@ -1,5 +1,5 @@
 function fetchBooks() {
-
+    return fetch()
 }
 
 function renderBooks(json) {
